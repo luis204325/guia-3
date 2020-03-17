@@ -13,3 +13,12 @@ tr{
     margin-top: 10px;
     margin-left: 0px;
 }
+
+select{
+    margin-top: 10px;
+    margin-left: 600px;
+}
+
+h1{
+    text-align: center;
+}
